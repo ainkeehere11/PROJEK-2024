@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">MyBooksApp</string>
+    <string name="books_name">Nama Buku</string>
+    <string name="data_description">Deskripsi</string>
+    <string name="description" />
+
+    <string-array name="data_name">
+        <item>Bumi</item>
+        <item>Bintang</item>
+        <item>Bumi Manusia</item>
+        <item>Hujan</item>
+        <item>Laut Bercerita</item>
+        <item>MATAHARI</item>
+        <item>Septihan</item>
+        <item>Ancika</item>
+        <item>Milea</item>
+        <item>Dilan 1991</item>
+    </string-array>
+    <string-array name="data_description">
+            <item>
+                Cerita ini bermula dari seorang gadis berusia 15 tahun, bernama Raib. Sebenarnya, Raib layaknya remaja pada umumnya, tetap dirinya memiliki satu kemampuan, yakni bisa menghilang.
+                Bagaimana caranya? Hanya dengan meletakkan telapak tangan di wajahnya dan gadis itu bisa langsung tidak tampak di penglihatan. Sebenarnya, kemampuan aneh itu telah melekat padanya sejak dirinya masih berusia sekitar 2 tahun. Dahulu, Raib gemar bermain petak umpet dengan kedua orang tuanya,
+                kemudian Raib yang sedang meletakkan kedua telapak tangan ke wajahnya tiba-tiba menghilang. Raib merasa bingung sekaligus heran. Ia merahasiakan kemampuan yang dimilikinya itu ke semua orang, termasuk ke orang tuanya. Meski pernah, orang tuanya merasa ada keanehan
+                pada diri anaknya tersebut, Raib. Hal itu terjadi ketika Raib secara tiba-tiba muncul dihadapan mereka (orang tua Raib), padahal sebelumnya Raib berada di kamarnya. Akan tetapi, pada saat itu keanehan tersebut tidaklah dihiraukan oleh kedua orang tuanya, bahkan sampai saat ini.
+            </item>
+        <item>
+                Di novel ini, Raib, Seli, dan Ali adalah murid SMA biasa yang memiliki kemampuan luar biasa. Raib memiliki kekuatan untuk menghilang, Seli dapat mengeluarkan petir, dan Ali bisa berubah menjadi beruang. Mereka dipilih untuk menyelamatkan ketiga klan dari ancaman Sekretaris Dewan Kota Zaramaraz. Dalam petualangan mereka, mereka menemukan pasak bumi yang akan menghancurkan klan permukaan. Namun, ketika mereka kembali untuk memberitahu Miss Selena, reaksi Miss Selena tidak sesuai harapan.
+                Apa yang sebenarnya mereka temukan dan bagaimana mereka menghadapinya?
+            </item>
+        <item>
+                "Bumi Manusia" adalah novel karya Pramoedya Ananta Toer yang mengisahkan tentang kehidupan seorang pemuda Jawa bernama Minke di awal abad ke-20, pada masa kolonial Belanda di Hindia Belanda.
+                Minke, yang memiliki semangat pemuda dan keinginan untuk belajar, terlibat dalam perjuangan melawan penindasan kolonialisme dan ketidakadilan sosial. Dalam perjalanan hidupnya, Minke bertemu dengan berbagai tokoh yang memengaruhi pandangannya terhadap kehidupan dan politik. Dia jatuh cinta dengan seorang perempuan Eropa bernama Annelies, namun cintanya terhalang oleh perbedaan status sosial dan budaya. Novel ini menggambarkan kekuatan dan kelemahan manusia dalam menghadapi ketidakadilan, serta perjuangan untuk mencapai kebebasan dan martabat.
+                "Bumi Manusia" juga mengupas konflik sosial, politik, dan budaya di masa kolonial, serta memberikan pandangan yang dalam tentang perjuangan dan harga diri.
+            </item>
+        <item>
+                Novel ini mengisahkan tentang Esok dan Lail yang bertemu setelah letusan gunung pada tahun 2042. Mereka hidup dalam dunia pasca-bencana di mana hanya sekitar 10% manusia yang tersisa. Esok, seorang jenius yang berhasil menciptakan mobil terbang pada usia 16 tahun, bertemu dengan Lail, seorang relawan kemanusiaan yang menyimpan perasaan padanya namun tidak bisa mengungkapkannya. Cerita ini berlatar di tahun 2041-2150, menampilkan kemajuan teknologi dan dampaknya terhadap manusia.
+                Konflik muncul ketika Lail ingin menghapus ingatannya tentang hujan melalui terapi saraf, yang memunculkan cerita hidupnya sejak bencana alam hingga saat ini.
+            </item>
+        <item>
+                "Laut Bercerita" mengisahkan tentang keluarga yang kehilangan, sahabat yang merasa kekosongan, dan pengkhianatan dalam sebuah kelompok. Sejumlah keluarga mencari kejelasan tentang nasib anak-anak mereka, sementara cinta yang tidak akan pudar juga menjadi tema utama.
+                Kisah dimulai pada Maret 1998 di Jakarta, ketika Biru Laut dan kawan-kawannya disergap oleh empat lelaki tak dikenal.
+                Mereka disekap, disiksa, dan dipaksa menjawab pertanyaan penting tentang gerakan aktivis dan mahasiswa saat itu. Pada Juni 1998, keluarga Arya Wibisono menunggu dengan harap-harap cemas kehadiran Biru Laut dalam jamuan makan keluarga, namun ia tidak pernah muncul. Pada tahun 2000, adik Biru Laut, Asmara Jati, dan Tim Komisi Orang Hilang mencoba mencari jejak mereka yang hilang. Sementara itu, Biru Laut dari dasar laut bercerita tentang nasibnya dan kawan-kawannya.
+                Ini adalah cerita tentang kehilangan, pencarian, dan harapan dalam menghadapi tragedi yang mengguncang.
+            </item>
+        <item>
+                Novel ini dimulai dengan Raib dan Seli yang menonton pertandingan basket Ali. Raib terkejut melihat keahlian basket Ali dan merasa cemburu saat Ali dikerumuni oleh fans. Alur maju-mundur mengungkapkan perjalanan Raib ke Klan Matahari empat bulan sebelumnya, di mana dia merasa sedih atas kematian Ily dan kehilangan Miss Selena.
+                Ali yang biasanya tertutup, tiba-tiba menjemput Raib dengan penampilan rapi, dan mereka berdua pergi ke sekolah. Ali memberi tahu Raib tentang sebuah tabung kecil yang berisi sejarah Klan Bulan, tempat kelahiran Raib, dan mengajaknya berpetualang ke Klan Bulan. Saat pertandingan final basket, Ali tiba-tiba diculik oleh orang asing. Raib dan Seli berusaha mengejar dengan kekuatan Raib yang bisa menghilang. Mereka berhasil menemukan Ali dan mengungkap bahwa kapsul yang membawa Ali adalah hasil uji coba miliknya. Selama petualangan di Klan Matahari, mereka mendapatkan pesan penting tentang menjaga pasak-pasak bumi.
+                Mereka menyadari bahwa bencana alam tidak bisa dicegah dan satu-satunya cara untuk selamat adalah melepaskan salah satu pasak bumi.
+            </item>
+        <item>
+                Septihan bercerita tentang kisah remaja yang dibalut dengan asmara dan persahabatan. Di sini ada dua tokoh utama, yaitu Septian Aidan Nugroho dan Jihan Halana. Septian adalah salah satu murid paling pintar di SMA Ganesha. Septian sendiri merupakan pribadi yang pendiam dan dingin.
+            </item>
+        <item>
+                Mengambil latar tahun 1995, film Ancika menceritakan tentang seorang mantan ketua geng motor bernama Dilan yang jatuh cinta pada Ancika, seorang gadis yang membenci geng motor.
+            </item>
+        <item>
+                "Suara dari Dilan" adalah lanjutan dari kisah cinta yang dikenal dari trilogi "Dilan", yang kini fokus pada perspektif Milea, pasangan Dilan.
+                Cerita ini mengisahkan perjuangan Milea dalam memahami perasaannya terhadap Dilan yang terkadang rumit dan penuh konflik. Milea, seorang gadis SMA yang cerdas dan memiliki kepribadian kuat, harus menghadapi dilema antara cintanya pada Dilan dan pertimbangan logisnya terhadap masa depan. Di tengah-tengah perjalanan cinta mereka yang penuh warna, Milea merenungkan komitmen, kepercayaan, dan pengorbanan yang terlibat dalam hubungan mereka. Novel ini mengeksplorasi dinamika hubungan remaja yang rumit, ketegangan antara cinta dan tanggung jawab, serta pertumbuhan karakter Milea dalam menemukan jati dirinya.
+                Dengan gaya bahasa yang khas, "Suara dari Dilan" menghadirkan kisah cinta yang menyentuh hati dan menggugah emosi pembaca.
+            </item>
+        <item>
+                "Dilan 1991" adalah kelanjutan dari kisah cinta ikonik antara Dilan dan Milea. Novel ini mengisahkan perjalanan hubungan mereka setelah beberapa tahun berlalu sejak kisah cinta mereka di masa SMA. Dilan dan Milea, yang kini sudah dewasa, menghadapi berbagai tantangan dalam hubungan mereka. Mereka harus menghadapi masalah kepercayaan, komitmen, dan perbedaan pendapat dalam menjalani hubungan asmara mereka.
+                Di tengah-tengah konflik, mereka juga harus berurusan dengan perbedaan latar belakang dan lingkungan sosial mereka. Dilan yang tetap setia dengan sifatnya yang pemberani dan romantis, berusaha untuk mempertahankan cintanya pada Milea. Namun, tidak semua hal berjalan mulus. Mereka harus melewati berbagai rintangan dan ujian dalam hubungan mereka. Namun, di balik semua masalah tersebut, cinta mereka tetap menjadi pendorong utama yang membuat mereka bertahan dan berjuang untuk bersama.
+                "Dilan 1991" merupakan cerita tentang cinta yang kuat, kesetiaan, dan perjuangan dalam mempertahankan hubungan meskipun dihadapkan pada berbagai cobaan.
+            </item>
+    </string-array>
+    <string-array name="item_books">
+            <item>
+                Penulis: Tere Liye
+                Penerbit: Republika
+                Tahun terbit: 2014
+                Genre: Fiksi Sosial
+            </item>
+        <item>
+                Penulis: Tere Liye
+                Penerbit: Gramedia Pustaka Utama
+                Tahun terbit: 2017
+                Genre: Fiksi Remaja
+            </item>
+        <item>
+                Penulis: Pramoedya Ananta Toer
+                Penerbit: Hasta Mitra
+                Tahun terbit: 1980
+                Genre: Sastra dan Sejarah
+            </item>
+        <item>
+                Penulis: Tere Liye
+                Penerbit: Republika
+                Tahun terbit: 2014
+                Genre: Fiksi Romantis
+            </item>
+        <item>
+                Penulis: Leila S. Chudori
+                Penerbit: Kepustakaan Populer Gramedia
+                Tahun terbit: 2021
+                Genre: Fiksi atau Sastra
+            </item>
+        <item>
+                Penulis: Tere Liye
+                Penerbit: PT. Gramdia Pustaka
+                Tahun terbit: 2014
+                Genre: Fiksi, Romance, Drama
+            </item>
+        <item>
+                Penulis: Poppi Pertiwi
+                Penerbit: Bumi Semesta Media
+                Tahun terbit: 2020
+                Genre: Fiksi Remaja
+            </item>
+        <item>
+                Penulis: Pidi Baiq
+                Penerbit: Bukune
+                Tahun terbit: 2018
+                Genre: Fiksi, Sastra
+            </item>
+        <item>
+                Penulis: Pidi Baiq
+                Penerbit: Bukune
+                Tahun terbit: 2016
+                Genre: Fiksi, Romantis
+            </item>
+        <item>
+                Penulis: Pidi Baiq
+                Penerbit: Bukune
+                Tahun terbit: 2016
+                Genre: Fiksi Remaja, Romantis
+            </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bumi</item>
+        <item>@drawable/bintang</item>
+        <item>@drawable/bumi_manusia</item>
+        <item>@drawable/hujan</item>
+        <item>@drawable/laut_bercerita</item>
+        <item>@drawable/matahari</item>
+        <item>@drawable/septihan</item>
+        <item>@drawable/ancika</item>
+        <item>@drawable/milea</item>
+        <item>@drawable/dilan</item>
+    </integer-array>
+
+</resources>
